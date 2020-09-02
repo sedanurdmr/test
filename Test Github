@@ -11,6 +11,7 @@ namespace Test_Github
         static void Main(string[] args)
         {
             Console.WriteLine("merhaba");
+            console.writelinde("sedanur");
         }
     }
 }
